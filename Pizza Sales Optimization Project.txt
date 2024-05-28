@@ -1,0 +1,22 @@
+🍕 Pizza Sales Optimization Project
+Problem Statement
+The company needed to improve its pizza sales by understanding customer order trends, revenue patterns, and inventory management. This required analyzing sales data to find the most popular pizza types and sizes, and the best times for resource allocation. Additionally, segmenting pizza sales by category was needed to boost targeted marketing and overall efficiency.
+
+Project Overview
+This project involves a comprehensive analysis of pizza sales data using SQL. The analysis aims to:
+
+📈 Identify key trends and patterns in customer orders and revenue generation.
+🛠️ Optimize inventory management based on the most common pizza sizes.
+🕒 Determine the optimal timing for resource allocation based on order distribution by hour.
+📊 Segment pizza sales by category to enhance targeted marketing efforts.
+💡 Provide actionable insights for strategic decision-making to improve sales and customer satisfaction.
+Key Insights
+Top 5 Most Ordered Pizza Types: Tailored menu offerings and promotions around these to drive sales and customer satisfaction.
+Highest-Priced Pizza: Strategically adjusted pricing for high-value items to balance profitability and customer appeal.
+Most Common Pizza Size: Optimized inventory management to minimize waste and ensure availability.
+Order Distribution by Hour: Streamlined operations and enhanced customer service during peak times.
+Revenue Contribution & Customer Preferences: Informed targeted marketing campaigns and menu optimizations for sustained growth.
+
+
+Conclusion
+By leveraging SQL to analyze pizza sales data, this project provides actionable insights to optimize sales strategies, improve customer satisfaction, and enhance overall operational efficiency.
